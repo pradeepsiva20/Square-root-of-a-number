@@ -33,7 +33,6 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 ![square root of a number](https://user-images.githubusercontent.com/120539823/213228722-94994e82-e0cb-4973-8154-efaea35e0170.png)
 
 
